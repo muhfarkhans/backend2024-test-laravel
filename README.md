@@ -3,9 +3,9 @@
 ## Pertanyaan pilihan
 
 1. B
-2. E
-3. E
-4. B
+2. E (D)
+3. E (C)
+4. B 
 5. B
 6. E
 7. B
@@ -16,4 +16,4 @@
 12. D
 13. C
 14. D
-15. B
+15. B (A)
